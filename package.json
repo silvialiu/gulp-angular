@@ -1,0 +1,22 @@
+{
+  "name": "t_angular",
+  "version": "1.0.0",
+  "description": "gulpfile for angular project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silvialiu/gulp-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvialiu/gulp-angular/issues"
+  },
+  "homepage": "https://github.com/silvialiu/gulp-angular",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
